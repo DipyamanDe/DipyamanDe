@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there 👋
-🔭 I am Full Stack Developer who makes functional UI with structured backend.<br>👯 Teamwork is my way to deal with challenges.<br>🤝 Collaboration leads to Success.<br>🌱 I'm so enamored with Generative AI.<br>💬 I'm curious about Technology.<br>⚡ Learning and Implemenation is the way forward.
+🔭 I am AI/ML Engineer(GEN AI) with expertise in AI-driven applications, Generative AI, machine learning, and backend development, specializing in building scalable intelligent solutions.<br>👯 Teamwork is my way to deal with challenges.<br>🤝 Collaboration leads to Success.<br>🌱 I'm so enamored with Generative AI.<br>💬 I'm curious about Technology.<br>⚡ Learning and Implemenation is the way forward.
 
 
 ## 🌐 Socials:
